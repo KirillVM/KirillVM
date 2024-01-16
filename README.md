@@ -7,7 +7,7 @@
 ---
 
 ### :man_technologist: About me:
-I love the UI. And of course I love teamwork. Yeah, I’m a team player, because only well-coordinated teamwork allows you to make a really good product. I love to learn something new, especially in development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> In my spare time I play guitar. :guitar:
+I love development and everything that goes with it. And of course I love teamwork. Yeah, I’m a team player, because only well-coordinated teamwork allows you to make a really good product. I love to learn something new, especially in development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> In my spare time I play guitar. :guitar:
 
 ---
 
@@ -76,7 +76,7 @@ I love the UI. And of course I love teamwork. Yeah, I’m a team player, because
 
 <table>
   <tr>
-    <td>
+    <td style="padding: 12rem 12rem">
      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=KirillVM&mode=weekly&theme=dark&background=000000" alt="GitHub Streak" /></a>
     </td>
     <td>
