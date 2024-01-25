@@ -55,6 +55,7 @@ I love development and everything that goes with it. And of course I love teamwo
 > The Rolling Scopes School
   - React 2023Q4
   - Oct 2023 - Jan 2024
+  - [Certificate](https://app.rs.school/certificate/aa0k57e4) 
 
 > Stepik
   - Python Programming
@@ -85,4 +86,8 @@ I love development and everything that goes with it. And of course I love teamwo
   </tr>
 </table>
 
+<div>
+  <img src="https://www.codewars.com/users/KirillVM/badges/large" />
+</div> &nbsp;&nbsp; 
+  
 ![](https://komarev.com/ghpvc/?username=KirillVM)
