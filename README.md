@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Kirill
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Front-end developer
-</h3>
+<h2 align="center">Front End Developer
+</h2>
 
 ---
 
